@@ -1,6 +1,6 @@
 # blog_react_ts
 
-<p> Este projeto é um site parallax criado para demonstrar meus conhecimentos em Typescript, Css, React js, Html, Tsx.
+<p> Este projeto é um site criado para demonstrar meus conhecimentos em Typescript, Css, React js, Html, Tsx.
     Este site é um blog simples com algumas funcionalidades.
 </p>
 
