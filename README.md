@@ -8,7 +8,9 @@
 
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
 
- <a href="https://samuel-santana109.github.io/blog_react_ts" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
+ <a href="https://samuel-santana109.github.io/blog_react_ts" target="_blank">
+ <img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank">
+ </a>
 
  
 
