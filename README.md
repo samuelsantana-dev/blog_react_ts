@@ -12,7 +12,7 @@
  <img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank">
  </a>
 
- 
+<p>Nele voce pode adicionar comentarios,dar like nos posts e outros,entre no site e de uma olhada </p>
 
  ## Tecnologias Utilizadas
 
